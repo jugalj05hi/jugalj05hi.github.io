@@ -1,0 +1,67 @@
+
+#particles-js {
+    /* background-color: #b61924; */
+    background-color: #000000;
+    height: 100vh;
+    width: 100%;
+}
+
+
+#typewriter {
+    color: white;
+    position: relative;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
+
+#typewriter2 {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    transform: translateY(-50%);
+     -webkit-transform: translateY(-50%);
+     -moz-transform: translateY(-50%);
+     -ms-transform: translateY(-50%);
+     -o-transform: translateY(-50%);
+}
+#red{
+    color: cyan;
+}
+#quotes{
+    color: white;
+}
+.More{
+    width: 96vw;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width:700px) {
+    #typewriter {
+        padding: 15px;
+       font-size: 22px;
+    }
+    #typewriter2 {
+        padding: 15px;
+        margin-top: 40px;
+        font-size: 22px;
+    }
+
+
+}
