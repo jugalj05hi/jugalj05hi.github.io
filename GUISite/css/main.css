@@ -1464,7 +1464,7 @@ input::-moz-focus-inner {
   letter-spacing: .5rem;
   margin-top: 0;
   padding-top: 3.2rem;
-  margin-bottom: 8rem;
+  margin-bottom: 5rem;
   position: relative;
 }
 
@@ -1494,7 +1494,7 @@ input::-moz-focus-inner {
 
 .section-desc {
   font-family: "Frank Ruhl Libre", serif;
-  font-size: 5.4rem;
+  font-size: 3.0rem;
   font-weight: 400;
   line-height: 1.259;
   letter-spacing: -0.05rem;
@@ -1796,7 +1796,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media screen and (max-width:1200px) {
   .header-main-nav {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .header-main-nav li {
@@ -3044,8 +3044,8 @@ input::-moz-focus-inner {
 .testimonials p {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 4rem;
-  line-height: 1.8;
+  font-size: 3.2rem;
+  line-height: 1.2;
   color: #000000;
 }
 
@@ -3151,7 +3151,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media screen and (max-width:1400px) {
   .testimonials p {
-    font-size: 3.8rem;
+    font-size: 3.2rem;
   }
 
 }
@@ -3292,7 +3292,7 @@ input::-moz-focus-inner {
 
 .contact-email {
   font-family: "Roboto", sans-serif;
-  font-size: 11.2rem;
+  font-size: 5.2rem;
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
@@ -3362,7 +3362,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 4rem;
   }
 
   .contact-infos {
@@ -3377,7 +3377,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 4rem;
   }
 
   .contact-infos {
@@ -3388,7 +3388,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 4rem;
   }
 
   .contact-infos {
@@ -3407,7 +3407,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 6vw;
   }
 
   .contact-infos {
